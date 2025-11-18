@@ -1,0 +1,1 @@
+# puppet-two-nodes
